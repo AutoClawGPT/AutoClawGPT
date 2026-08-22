@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">AutoGPT — AI agents that finish the work</h1>
+<h1 align="center">AutoClaw GPT — AI agents that finish the work</h1>
 
 <p align="center">
   <strong>Get 10 hours back every week.</strong><br />
@@ -22,7 +22,15 @@
   ·
   <a href="https://discord.gg/autogpt">Discord</a>
   ·
+  <a href="https://x.com/AutoClawGPT">X</a>
+  ·
   <a href="#self-host-autogpt">Self-host</a>
+</p>
+
+<p align="center">
+  <a href="https://x.com/AutoClawGPT">
+    <img src="assets/autoclawgpt.jpg" alt="AutoClaw GPT on X" width="72" />
+  </a>
 </p>
 
 <p align="center">
